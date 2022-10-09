@@ -10,6 +10,6 @@ I have experience in java from taking 162/163 last year before applying to the m
 ## CIS641 Semester Project
 My group is using [this tutorial](http://rogueliketutorials.com/tutorials/tcod/v2/) as a baseline guide to create a simple roguelike game. We will be expanding on the tutorial, adding additional features in order to increase the complexity from where it leaves off. This project is giving us experience in both doing project management and programming in Python.
 
-[Click here](https://www.google.com/) to go to our project's github.io page (link currently goes to google as a placeholder as our site isn't created yet)
+[Click here](https://alexbilledeaux.github.io/GVSU-CIS641-PythonGameGuys/) to go to our project's github.io page
 
 ![Meme Time](https://preview.redd.it/6q6azrp3e5t41.jpg?auto=webp&s=f28cfc10f24869ca00716d01ecb8af45e1caf9f0)
